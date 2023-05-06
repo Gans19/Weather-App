@@ -77,7 +77,7 @@ function App() {
           <div className="flex justify-around gap-2">
             <BsWind />
             <p>
-              Wind <span>1.54 m/s</span>
+              Wind  <span>1.54 m/s</span>
             </p>
           </div>
         </div>
